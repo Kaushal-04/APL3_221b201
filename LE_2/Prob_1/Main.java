@@ -6,6 +6,8 @@ C#, OCaml, VB, Swift, Pascal, Fortran, Haskell, Objective-C, Assembly, HTML, CSS
 Code, Compile, Run and Debug online from anywhere in world.
 
 *******************************************************************************/
+
+// Run time polymorphism
 public class Main {
     public static void main(String[] args) {
         Voice voice = new Voice();
